@@ -1,0 +1,5 @@
+﻿  PERF_TASK2.cpp
+C:\Users\Alina\source\repos\PERF_TASK1\PERF_TASK2\PERF_TASK2.cpp(38,19): error C2374: 'in': redefinition; multiple initialization
+      C:\Users\Alina\source\repos\PERF_TASK1\PERF_TASK2\PERF_TASK2.cpp(34,19):
+      see declaration of 'in'
+  
